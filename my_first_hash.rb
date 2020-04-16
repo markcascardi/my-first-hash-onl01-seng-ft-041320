@@ -1,5 +1,5 @@
 def my_hash
-  yaur_hash = { "team_name" => "Tar Heels"}
+  your_hash = { "team_name" => "Tar Heels"}
 end
 
 
